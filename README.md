@@ -2,6 +2,8 @@
 
 A hands-on, lab-first roadmap I'm following in public to learn how to secure **AI agents**, the **APIs** they call, and the **identity (IAM)** and **privileged access (PAM)** controls that keep them in check.
 
+> 🎯 **Target role:** Remote PAM / Identity Security Engineer in **healthcare or banking**, with **AI agent security** as my edge: controlling who and what (people, vendors and AI agents) gets into critical systems, hands-on in Linux, Python and the CLI.
+
 > Started: November 2026 · Status: 🟢 In progress · Current phase: **Phase 0: Foundations**
 
 ---
