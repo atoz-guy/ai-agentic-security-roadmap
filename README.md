@@ -21,6 +21,8 @@ AI Agent ──calls──▶ API ──checked by──▶ IAM ──extra cont
 
 Most real attacks on AI agents succeed because **one of these links is weak**. Every lab I do, I ask: *which link broke?*
 
+**ServiceNow side:** how AI Control Tower, IRM, SecOps and PAM enforce these controls lives in my [ServiceNow repo](https://github.com/atoz-guy/ServiceNow-/tree/main/AI-Agentic-Security-Roadmap).
+
 **The one rule behind it all:** *never trust anything that comes from the user (or the LLM), and check permissions on the server every time.*
 
 ---
